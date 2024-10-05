@@ -19,21 +19,4 @@ In summary, it’s an app that handles both manual and automatic location inputs
 ![IMG-20241005-WA0023](https://github.com/user-attachments/assets/352e7858-9160-4730-b09d-50cdb10a3121)
 ![IMG-20241005-WA0022](https://github.com/user-attachments/assets/9522f251-61f5-4eb0-a0b4-8a877fb13e1a)
 ![IMG-20241005-WA0021](https://github.com/user-attachments/assets/df301c3e-19d3-4898-b733-1aea6acf9107)
-=======
-# app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 866fae6 (first commit)
